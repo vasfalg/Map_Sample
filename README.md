@@ -1,7 +1,7 @@
 
 ## Links
 - Map https://vasfalg.github.io/Voucher_Map/
-- Data https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+- Data https://docs.google.com/spreadsheets/d/1SdXUL93t64hvsVBbn8ui-2stBFkS1IKSZWR20dCU3OQ/edit?usp=sharing
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
